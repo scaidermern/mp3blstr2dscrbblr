@@ -38,5 +38,5 @@ Note: cron runs every minute but mp3blstr2dscrbblr.sh has to be called every
 That's all, now your songs should get scrobbled.
 
 # License   
-GPL v3 (http://www.gnu.org/licenses/gpl.html)
+[GPL v3](http://www.gnu.org/licenses/gpl.html)
 (c) [Alexander Heinlein](http://choerbaert.org)
