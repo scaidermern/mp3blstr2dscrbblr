@@ -1,0 +1,11 @@
+2012-05-10 0.4
+- minor tweaks for GitHub release
+
+2007-09-25 0.3
+- retry specified number of times if submission fails
+
+2006-11-06 0.2
+- support for debian package libaudio-scrobbler-perl
+
+2006-06-16 0.1
+- initial release
