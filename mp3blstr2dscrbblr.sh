@@ -4,6 +4,8 @@
 #
 # Copyright (C) 2006-2007,2012 Alexander Heinlein <alexander.heinlein@web.de>
 #
+# License: GPL v3
+#
 # version: 0.4
 #
 
